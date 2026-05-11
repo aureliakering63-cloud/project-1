@@ -1,7 +1,6 @@
 package com.example.myfirstapp.ui.screens.navigation
 
-
-enum class routes  {
+enum class Routes {
     Login,
     Signup,
     ForgotPassword,
@@ -11,5 +10,6 @@ enum class routes  {
     FoodList,
     CartScreen,
     CheckOut,
-    HomeScreen
+    HomeScreen,
+    Maps
 }
